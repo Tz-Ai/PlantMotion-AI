@@ -8,6 +8,7 @@
 ## 👥 Team Introduction
 
 **Team Name:** Nature AI 
+
 **Name:** Mohammed Thahoor 
 
 This project was developed individually. In this project, Plant Motion AI, I developed a real-time motion monitoring system using sensor data and rule-based logic to detect abnormal plant tilt and automatically trigger alerts.
