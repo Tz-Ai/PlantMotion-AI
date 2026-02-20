@@ -14,7 +14,7 @@ ser = serial.Serial("COM3", 115200, timeout=1)
 
 app=FastAPI()
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="")
 
 CALL_COOLDOWN = 600  # 10 minutes
 last_call_time = 0
@@ -230,3 +230,4 @@ setInterval(update, 200);
 @app.get("/status")
 def status():
     return JSONResponse(latest_data)
+
