@@ -73,7 +73,7 @@ MPU6050 Sensor → ESP32 → USB → Python Processing Script → Rule-Based Log
 
 ### 🔷 Hardware Connection Diagram
 
-![Hardware Connection](hardwaree_connection_diagram.png)
+![Hardware Connection](hardware_connection_diagram.png)
 
 **Connection Overview:**
 
