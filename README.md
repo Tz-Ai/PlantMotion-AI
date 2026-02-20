@@ -1,7 +1,7 @@
 # 🌱 Plant Motion AI – Outdoor Agricultural Plant Stability Monitoring System
 
 ## 🎥 Demo Video
-🔗 Watch here: https://youtube.com/your-link
+🔗 Watch here: https://youtu.be/rQilq4aBHkQ
 
 ---
 
